@@ -4,7 +4,7 @@
   Computer Science Student • Full Stack Web Developer
 </p>
 
----
+
 
 ## About Me
 
@@ -13,7 +13,6 @@
 - Currently learning system design  
 - Interested in scalable applications, real-time systems, and clean UI development  
 
----
 
 ## Tech Stack
 
@@ -21,5 +20,5 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,git,github,vscode" />
 </p>
 
----
+
 
