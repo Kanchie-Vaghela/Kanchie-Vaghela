@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Kanchie Vaghela!</h1>
+<h1 align="center">Hey, I'm Kanchie Vaghela!</h1>
 
 <p align="center">
   Computer Science Student • Full Stack Web Developer
